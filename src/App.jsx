@@ -39,7 +39,7 @@ function App() {
                         <InputBox
                             label="From"
                             amount={amount}
-                            currrencyOption={object}
+                            currencyOption={object}
                             onCurrencyChange={(currency)=>setAmount(amount)}
                             selectCurrency={from}
                           onAmountChange={(amount)=>setAmount(amount)}
