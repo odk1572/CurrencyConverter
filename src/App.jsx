@@ -21,7 +21,7 @@ function App() {
    
   return (
     <div
-        className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
+        className="w-full h-screen flex flex-wrap justify-center items-center bg-center bg-cover bg-no-repeat"
         style={{
             backgroundImage: `url('https://images.playground.com/6e243e8a99054227ab6e7a9a57abfea8.jpeg')`,
         }}
